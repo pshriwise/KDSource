@@ -22,6 +22,7 @@ KDSource uses [`MCPL`](https://mctools.github.io/mcpl/) particle lists format. I
 * PHITS
 * McStas
 * TRIPOLI-4
+* OpenMC
 
 In TRIPOLI-4 and McStas it is possible "on-the-fly" sampling during simulations, while for the other formats it is necessary to record the source particle list before the simulation.
 
